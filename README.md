@@ -10,6 +10,9 @@ However, tree does not provide tree when given a list of file paths. This can be
 
 - Write a program in Python.
     - Consider using Go for optimization. Given longer files (>10000 files)
+- View tree format from a list of paths. For examples:
+    - Output of `find` command
+    - A list of API's path
 - Command in format: `treeview paths.txt`
 
 ## Example input file
